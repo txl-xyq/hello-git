@@ -1,16 +1,4 @@
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
-hello git , hello java !
+master master master master!
 第一次修改
 第二次修改
 order order order order!
